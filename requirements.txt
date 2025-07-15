@@ -69,8 +69,8 @@ sympy==1.14.0
 threadpoolctl==3.6.0
 torch==2.7.1
 torchinfo==1.8.0
-torchmetrics==1.7.1
-torchvision==0.22.0
+torchmetrics==1.7.4
+torchvision==0.22.1
 tornado==6.5
 tqdm==4.67.1
 traitlets==5.14.3
